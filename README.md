@@ -2,12 +2,15 @@
 
 An application that visualizes the blood glucose data coming from a nightscout server.
 
-The application is written in Swift using SwiftUI and is available for iPhone, iPad and OSX.
+The application is written in Swift using SwiftUI and is available for iPhone, iPad.
 
 Please find more information at [Fight Type 1](https://fight-type1.blogspot.com/2020/08/glucotracker.html)
 
 [App store](https://apps.apple.com/us/app/gluco-tracker/id1526976290?mt=8)
 
+
+In case you run Gluco-Tracker with a Gluroo account, please fill in the Gluroo url in the Nightscout URL field
+and the Gluroo API key in the token field.
 
 The application was created to monitor the blood glucose values of our son. It also comes
 with support for the Apple Watch. 
